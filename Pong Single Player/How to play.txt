@@ -1,0 +1,5 @@
+Instruções:
+Clique na bola com o botão esquerdo para iniciar o jogo e movimente o jogador com o mouse.
+
+Instructions:
+Left click on the ball to start and move the player with the mouse.
